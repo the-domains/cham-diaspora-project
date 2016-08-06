@@ -12,5 +12,9 @@ color:
     - '#3B28CC'
 layout_spectrum: 0.5668455942068249
 name: Cham Diaspora Project
+navigation:
+  - name: Blog
+    url: 'http://blogcambodia.chamdiaspora.com/'
+    type: external
 title: The Cham Diaspora Project
 description: 'The Untold Stories '
