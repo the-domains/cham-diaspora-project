@@ -1,4 +1,3 @@
-layout_spectrum: 0.5668455942068249
 typography_spectrum: 0.10735409683547914
 color:
   brandStrength: 0.5967786288820207
@@ -11,5 +10,7 @@ color:
     - '#A62626'
     - '#3D588F'
     - '#C7CAD1'
+layout_spectrum: 0.5668455942068249
+logo: null
 name: Cham Diaspora Project
 title: Cham Diaspora Project
